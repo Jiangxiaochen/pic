@@ -1,4 +1,4 @@
-﻿@echo off
+﻿@echo off 
 
 echo 更新文件...
 git pull
