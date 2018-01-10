@@ -1,12 +1,12 @@
-锘緻echo off 
+@echo off 
 
-echo 鏇存柊鏂囦欢...
+echo 更新文件...
 git pull
 
-echo 鏆傚瓨鏂囦欢
+echo 暂存文件
 git add *
 
-echo 涓婁紶鏂囦欢
+echo 上传文件
 git cam
 
 pause
