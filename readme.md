@@ -1,1 +1,1 @@
-Thanks Github for providing me a picture repository!
+Thanks to Github for providing me a picture repository!
