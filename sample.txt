@@ -6,4 +6,6 @@ https://raw.githubusercontent.com/Jiangxiaochen/pic/master/%E6%B1%87%E7%BC%96%E8
 topdown:
 https://raw.githubusercontent.com/Jiangxiaochen/pic/master/topdownmethod/1-16.png
 
+inside_cpp_object_model:
+https://raw.githubusercontent.com/Jiangxiaochen/pic/master/inside_cpp_object_model/01.01.png
 
