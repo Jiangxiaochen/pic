@@ -1,6 +1,6 @@
 @echo off 
 
-git pull
+rem git pull
 git add *
 git cam
 git push
