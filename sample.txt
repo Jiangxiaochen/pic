@@ -9,3 +9,6 @@ https://raw.githubusercontent.com/Jiangxiaochen/pic/master/topdownmethod/1-16.pn
 inside_cpp_object_model:
 https://raw.githubusercontent.com/Jiangxiaochen/pic/master/inside_cpp_object_model/01.01.png
 
+apue:
+https://raw.githubusercontent.com/Jiangxiaochen/pic/master/c/apue-3.7.png
+
